@@ -9,7 +9,7 @@ Webinar del 11 de septiembre de 2026 · Comité de Seguimiento del Compromiso de
 
 ## En una frase
 
-Cinco organismos internacionales (WEI, OIT, PNUD, ACNUDH y ONU Mujeres) coincidieron con el Comité en que **la discapacidad no equivale a dependencia**, en que **las mujeres con discapacidad también cuidan**, y en que **un sistema de cuidados que no incluye los apoyos elegidos por la persona no cumple la Convención**. El marco normativo ya existe. Lo que falta es aplicarlo, financiarlo y llevar a las mujeres con discapacidad a la mesa donde se decide, empezando por la Conferencia Regional sobre la Mujer y la CSW72, ambas en 2028.
+Cinco organismos internacionales (WEI, OIT, PNUD, ACNUDH y ONU Mujeres) coincidieron con el Comité en que **la discapacidad no equivale a dependencia**, en que **las mujeres con discapacidad también cuidan**, y en que **un sistema de cuidados que no incluye los apoyos elegidos por la persona no cumple la Convención**. El marco normativo ya existe. Lo que falta es aplicarlo, financiarlo y llevar a las mujeres con discapacidad a la mesa donde se decide, empezando por la Conferencia Regional sobre las Mujeres y la CSW72, ambas en 2028.
 
 ---
 
@@ -38,7 +38,7 @@ Tlatelolco, párrafo 30 [R1]; la resolución de la OIT de 2024 [R14]; la OC-31/2
 - El Comité lo forman RELAVIN (14 países) y el Movimiento de Personas con Discapacidad de México. Nació del abandono institucional que vivieron las personas con discapacidad en la pandemia.
 - Su punto de partida es el **párrafo 30 del Compromiso de Tlatelolco** [R1] y su carta de presentación, el **Manifiesto del 8 de marzo** [R2], que propone releer las 5R desde las mujeres con discapacidad.
 - Menciona el primer informe sobre centros de vida independiente de la región, hecho con apoyo de la OIT [R3], y las experiencias de asistencia personal en República Dominicana y Perú, que parten del modelo de Costa Rica [R17].
-- **Hoja de ruta:** segundo webinar entre enero y marzo de 2027, tercero en un año, y llegar en número a la **XVII Conferencia Regional sobre la Mujer (Colombia, 2028)**.
+- **Hoja de ruta:** segundo webinar entre enero y marzo de 2027, tercero en un año, y llegar en número a la **XVII Conferencia Regional sobre las Mujeres (Colombia, 2028)**.
 - Barreras: incumplimiento de los artículos 12 y 19 de la Convención, falta de leyes de asistencia personal, falta de reconocimiento jurídico de los centros de vida independiente, y «falsas barreras económicas».
 
 ### 2 · Maryangel García-Ramos (WEI) — Liderazgo feminista con discapacidad · [▶ 0:15](https://youtu.be/5xtJ3tMDwrc?t=938)
@@ -101,7 +101,7 @@ Tlatelolco, párrafo 30 [R1]; la resolución de la OIT de 2024 [R14]; la OC-31/2
 
 ### Cierre · [▶ 2:10](https://youtu.be/5xtJ3tMDwrc?t=7788)
 - Martha invita a **firmar el Manifiesto 8M** (código QR) [R2].
-- Wendy: en 2028 coinciden la XVII Conferencia Regional sobre la Mujer y la CSW72. Pide **acuerdos específicos y vinculantes con presupuesto**, no una mención «transversal y abstracta».
+- Wendy: en 2028 coinciden la XVII Conferencia Regional sobre las Mujeres y la CSW72. Pide **acuerdos específicos y vinculantes con presupuesto**, no una mención «transversal y abstracta».
 - Jessica recuerda que el **12 de septiembre es el Día Nacional de la Mujer con Discapacidad en México**.
 - Martha: «Ninguna mesa sobre políticas de cuidado debe construirse sin la presencia física y política de nosotras, las mujeres con discapacidad.»
 
@@ -113,5 +113,5 @@ Tlatelolco, párrafo 30 [R1]; la resolución de la OIT de 2024 [R14]; la OC-31/2
 |---|---|
 | Enero–marzo 2027 | Segundo webinar: sistemas de cuidados y apoyos |
 | Septiembre 2027 | Tercer webinar, de cierre |
-| 2028 | XVII Conferencia Regional sobre la Mujer (Colombia) y CSW72 |
+| 2028 | XVII Conferencia Regional sobre las Mujeres (Colombia) y CSW72 |
 | Ahora | 💜 **Firmar el Manifiesto 8M** 💜 https://docs.google.com/forms/d/e/1FAIpQLScb71nMw-dcXSKpl7nosLDNvYnw_bdWRkxKNiav0oHy_v4F7A/viewform |

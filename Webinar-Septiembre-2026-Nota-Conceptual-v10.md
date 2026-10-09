@@ -24,7 +24,7 @@ De ahí una propuesta sencilla y decisiva: **diseñar los sistemas de cuidados y
 
 ## El momento: del Compromiso de Tlatelolco (2025) a 2028
 
-El Comité de Seguimiento nació para dar seguimiento al **Compromiso de Tlatelolco** (XVI Conferencia Regional sobre la Mujer, Ciudad de México, 2025), que por primera vez menciona a las mujeres con discapacidad y, en particular, **en su párrafo 30 recoge la autonomía y la vida independiente en la comunidad**, en línea con la Convención sobre los Derechos de las Personas con Discapacidad. La tarea del Comité es convertir ese texto en **resultados concretos** rumbo a la **XVII Conferencia Regional (Colombia, 2028)**.
+El Comité de Seguimiento nació para dar seguimiento al **Compromiso de Tlatelolco** (XVI Conferencia Regional sobre la Mujer, Ciudad de México, 2025), que por primera vez menciona a las mujeres con discapacidad y, en particular, **en su párrafo 30 recoge la autonomía y la vida independiente en la comunidad**, en línea con la Convención sobre los Derechos de las Personas con Discapacidad. La tarea del Comité es convertir ese texto en **resultados concretos** rumbo a la **XVII Conferencia Regional sobre las Mujeres (Colombia, 2028)**.
 
 Este avance es fruto de medio siglo de trabajo de las Naciones Unidas —y en especial de ONU Mujeres—, que empoderó a las mujeres y llevó ese impulso a las políticas públicas. Pero hasta México 2025 las mujeres con discapacidad **casi no habían sido consideradas**; apenas ahora entran en el marco.
 
@@ -97,7 +97,7 @@ El Comité aporta una relectura, desde la autonomía y la vida independiente, de
 - **ONU Mujeres** — Silke Staab, en representación de la Directora Regional Bibiana Aído. **Participación confirmada.**
 - **UNFPA, UNICEF** — público estratégico.
 
-*Horizonte: XVII Conferencia Regional sobre la Mujer (CEPAL, Colombia, 2028) y CSW72.*
+*Horizonte: XVII Conferencia Regional sobre las Mujeres (CEPAL, Colombia, 2028) y CSW72.*
 
 ## Población objetivo
 

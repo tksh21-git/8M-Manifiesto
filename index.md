@@ -1,6 +1,6 @@
 # 8M — Documentos de trabajo
 
-Repositorio de documentos de RELAVIN y del Comité de Seguimiento del Compromiso de Tlatelolco, sobre la agenda de género, cuidados, apoyos y discapacidad, rumbo a la XVII Conferencia Regional sobre la Mujer (Colombia, 2028).
+Repositorio de documentos de RELAVIN y del Comité de Seguimiento del Compromiso de Tlatelolco, sobre la agenda de género, cuidados, apoyos y discapacidad, rumbo a la XVII Conferencia Regional sobre las Mujeres (Colombia, 2028).
 
 ---
 
@@ -38,7 +38,7 @@ Preparación:
 
 ## Marco teórico — el modelo de derechos humanos de la discapacidad
 
-- [**Theresia Degener, «La discapacidad en clave de derechos humanos» (2016)** — traducción completa al español](https://github.com/tksh21-githab/relavin/blob/main/crpd/degener-2016-la-discapacidad-en-clave-de-derechos-humanos.md) — las seis proposiciones por las que el modelo de derechos humanos supera al modelo social, y la igualdad transformativa como concepto de igualdad de la CDPD. Degener presidió el Comité CDPD en 2017–2018. Contiene el argumento de fondo para sostener que **la asistencia personal no es un parche provisional hasta que la sociedad sea accesible, sino un derecho social exigible**. Original en acceso abierto (CC BY 4.0): *Laws* 5(3), 35
+- [**Theresia Degener, «La discapacidad en clave de derechos humanos» (2016)** — traducción completa al español](https://github.com/tksh21-git/relavin/blob/main/crpd/degener-2016-la-discapacidad-en-clave-de-derechos-humanos.md) — las seis proposiciones por las que el modelo de derechos humanos supera al modelo social, y la igualdad transformativa como concepto de igualdad de la CDPD. Degener presidió el Comité CDPD en 2017–2018. Contiene el argumento de fondo para sostener que **la asistencia personal no es un parche provisional hasta que la sociedad sea accesible, sino un derecho social exigible**. Original en acceso abierto (CC BY 4.0): *Laws* 5(3), 35
 
 ## Leyes y políticas — Ciudad de México
 
@@ -82,7 +82,7 @@ Preparación:
 - [Hallazgos del programa en Panamá (ONU Mujeres, jul-2026)](https://lac.unwomen.org/en/stories/noticia/2026/07/naciones-unidas-presenta-hallazgos-del-programa-sobre-cuidados-panama)
 
 ### CEPAL
-- [Conferencia Regional sobre la Mujer de América Latina y el Caribe](https://conferenciamujer.cepal.org/) — Compromiso de Tlatelolco (2025) → XVII Conferencia (Colombia, 2028)
+- [Conferencia Regional sobre las Mujeres de América Latina y el Caribe](https://conferenciamujer.cepal.org/) — Compromiso de Tlatelolco (2025) → XVII Conferencia (Colombia, 2028)
 
 ---
 

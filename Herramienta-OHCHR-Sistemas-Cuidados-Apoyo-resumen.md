@@ -181,7 +181,7 @@ La herramienta llega exactamente cuando se requiere asegurar que **estos sistema
 
 ### Para el Comité de Seguimiento del Compromiso de Tlatelolco
 
-- Da un **lenguaje técnico común** alineado con CDPD para nuestras intervenciones ante CEPAL, ONU Mujeres y el proceso rumbo a la **XVII Conferencia Regional sobre la Mujer en América Latina y el Caribe (Colombia, 2028)**
+- Da un **lenguaje técnico común** alineado con CDPD para nuestras intervenciones ante CEPAL, ONU Mujeres y el proceso rumbo a la **XVII Conferencia Regional sobre las Mujeres en América Latina y el Caribe (Colombia, 2028)**
 - Ofrece **indicadores concretos** que pueden usarse para evaluar los compromisos asumidos en el Compromiso de Tlatelolco
 - Conecta nuestro trabajo con el marco más amplio de la **Alianza Global por los Cuidados** (creada en 2021 tras el Foro Generación de Igualdad), que incluye explícitamente a personas con discapacidad
 

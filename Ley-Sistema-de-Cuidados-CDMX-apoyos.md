@@ -257,8 +257,8 @@ OC-31/25 actúa como **ancla regional**: su contenido es exigible por control de
 
 - **Publicación de la ley en la Gaceta Oficial de la Ciudad de México** (en curso): fija el texto definitivo y abre formalmente el plazo reglamentario.
 - **Inicio del proceso reglamentario**: momento clave para que el movimiento entre con propuestas concretas en los diez puntos de la agenda.
-- **Diciembre de 2026** — 68ª Reunión de la Mesa Directiva de la Conferencia Regional sobre la Mujer (CEPAL, Santiago de Chile): espacio para situar el caso CDMX como antecedente regional rumbo a 2028.
-- **2028** — XVII Conferencia Regional sobre la Mujer (Colombia): horizonte en el que las legislaciones nacionales sobre cuidados y apoyos deberían poder presentarse como buenas prácticas implementadas.
+- **Diciembre de 2026** — 68ª Reunión de la Mesa Directiva de la Conferencia Regional sobre las Mujeres (CEPAL, Santiago de Chile): espacio para situar el caso CDMX como antecedente regional rumbo a 2028.
+- **2028** — XVII Conferencia Regional sobre las Mujeres (Colombia): horizonte en el que las legislaciones nacionales sobre cuidados y apoyos deberían poder presentarse como buenas prácticas implementadas.
 
 ### 5.5 Lo que aporta el Comité
 

@@ -73,6 +73,6 @@ Repetir esta evaluación en dos momentos:
 
 - Gaceta Oficial CDMX No. 1893 Bis (2-jul-2026) — [decreto completo](https://sistemadecuidados.congresocdmx.gob.mx/docs/02072026_DecretoLeydelSistemadeCuidados.pdf)
 - ACNUDH, *Herramienta de Evaluación a Nivel País* (2026), HR/PUB/25/3 — indicador 1.2.3: págs. 53–56; ámbito 3.3: págs. 72–79
-- [Análisis del texto promulgado](Ley-Sistema-de-Cuidados-CDMX-texto-promulgado.md) · [Hacia la reglamentación](Ley-Sistema-de-Cuidados-CDMX-apoyos.md) · [Evaluación análoga: Ley 493/2025 de Sucre](https://github.com/tksh21-githab/relavin/blob/main/bolivia/Guia-complementar-Ley-493-OHCHR.md)
+- [Análisis del texto promulgado](Ley-Sistema-de-Cuidados-CDMX-texto-promulgado.md) · [Hacia la reglamentación](Ley-Sistema-de-Cuidados-CDMX-apoyos.md) · [Evaluación análoga: Ley 493/2025 de Sucre](https://github.com/tksh21-git/relavin/blob/main/bolivia/Guia-complementar-Ley-493-OHCHR.md)
 
 *Documento de trabajo de RELAVIN / Comité de Seguimiento del Compromiso de Tlatelolco — julio de 2026.*

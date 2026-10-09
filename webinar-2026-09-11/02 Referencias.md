@@ -186,5 +186,5 @@ Del texto, para el debate sobre cuidados y apoyos:
 
 Y la correspondencia entre modelos de discapacidad y concepciones de la igualdad: **modelo médico → igualdad formal; modelo social → igualdad sustantiva; modelo de derechos humanos → igualdad transformativa**, que «no solo requiere la eliminación de las barreras a la inclusión, sino también medidas positivas que inicien un cambio real y que aborden las relaciones jerárquicas de poder».
 
-**Traducción (español):** https://github.com/tksh21-githab/relavin/blob/main/crpd/degener-2016-la-discapacidad-en-clave-de-derechos-humanos.md
+**Traducción (español):** https://github.com/tksh21-git/relavin/blob/main/crpd/degener-2016-la-discapacidad-en-clave-de-derechos-humanos.md
 **Original:** *Laws* 5(3), 35 · https://doi.org/10.3390/laws5030035 · acceso abierto CC BY 4.0

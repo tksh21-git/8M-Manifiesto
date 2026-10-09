@@ -28,7 +28,7 @@ La implementación de los sistemas de cuidados que hoy avanza en América Latina
 
 Hasta la XVI Conferencia Regional (Ciudad de México, 2025), sin embargo, las mujeres con discapacidad **casi no habían sido consideradas** en ese marco. México fue **la primera vez** que entraron en él. Y el horizonte de **2028 ya fija una doble cita en la que se pedirán resultados concretos**:
 
-- **XVII Conferencia Regional sobre la Mujer (CEPAL, Colombia, 2028).**
+- **XVII Conferencia Regional sobre las Mujeres (CEPAL, Colombia, 2028).**
 - **CSW72 (2028)**, cuyo tema prioritario es "reconocer y fortalecer los sistemas de cuidados y apoyo".
 
 La pregunta que este webinar pone sobre la mesa es, por tanto, de expectativa y de tiempo: **de aquí a 2028, ¿cómo pasamos de nombrar a las mujeres con discapacidad a situarlas, con derechos, en el centro de los sistemas de cuidados y apoyo?**

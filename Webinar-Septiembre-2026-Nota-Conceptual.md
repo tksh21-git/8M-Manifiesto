@@ -2,7 +2,7 @@
 
 ## Las mujeres con discapacidad en el centro de la economía del cuidado
 
-### Primer webinar de la serie del Comité de Seguimiento del Compromiso de Tlatelolco, rumbo a la XVII Conferencia Regional sobre la Mujer (Colombia, 2028)
+### Primer webinar de la serie del Comité de Seguimiento del Compromiso de Tlatelolco, rumbo a la XVII Conferencia Regional sobre las Mujeres (Colombia, 2028)
 
 _Segunda mitad de septiembre de 2026 · Modalidad virtual · Duración: 2 horas_
 
@@ -18,12 +18,12 @@ Este webinar parte de una afirmación: **las mujeres con discapacidad no son un 
 
 ## Una serie de tres webinares rumbo a 2028
 
-Este webinar es el **primero** de una serie de tres encuentros con los que el Comité acompaña el camino hacia la XVII Conferencia Regional sobre la Mujer:
+Este webinar es el **primero** de una serie de tres encuentros con los que el Comité acompaña el camino hacia la XVII Conferencia Regional sobre las Mujeres:
 
 1. **Septiembre de 2026** — _Las mujeres con discapacidad en el centro de la economía del cuidado_ (este webinar).
 2. **Entre enero y marzo de 2027** — segundo webinar (eje a definir; profundización en los sistemas de cuidados y los sistemas de apoyo).
 3. **Septiembre de 2027** — tercer webinar de cierre, en la antesala inmediata de la Conferencia.
-4. **2028** — XVII Conferencia Regional sobre la Mujer, Colombia.
+4. **2028** — XVII Conferencia Regional sobre las Mujeres, Colombia.
 
 La serie permite construir un proceso sostenido: cada webinar incorpora a nuevos aliados del sistema de Naciones Unidas, suma firmas al manifiesto y prepara una posición regional consolidada de las mujeres con discapacidad rumbo a la Conferencia.
 
@@ -62,7 +62,7 @@ Posicionar a las mujeres con discapacidad en el centro de la agenda regional de 
 3. Mostrar la trayectoria regional del modelo de **asistencia personal** (Costa Rica → República Dominicana → Perú) como ejemplo concreto de implementación.
 4. Conectar el empoderamiento de las mujeres con discapacidad con la cooperación internacional (PNUD) y con el marco conceptual del ACNUDH (5R+).
 5. Hacer presente la lectura propia del Movimiento de Personas con Discapacidad sobre las 5R desde la autonomía.
-6. Tender un puente directo con ONU Mujeres y con el proceso de la Conferencia Regional sobre la Mujer rumbo a 2028.
+6. Tender un puente directo con ONU Mujeres y con el proceso de la Conferencia Regional sobre las Mujeres rumbo a 2028.
 
 ---
 

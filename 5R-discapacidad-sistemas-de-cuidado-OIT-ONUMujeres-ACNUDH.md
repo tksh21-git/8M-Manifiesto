@@ -95,7 +95,7 @@ Los últimos dos años (2024–2026) muestran **dos velocidades distintas**.
 La agenda global y la regional se cruzan justo donde trabajamos:
 
 - **CSW72 (mundial, 2028):** "Reconocer y fortalecer los sistemas de cuidados y apoyo".
-- **XVII Conferencia Regional sobre la Mujer (CEPAL, Colombia, 2028):** misma agenda de cuidados y apoyo.
+- **XVII Conferencia Regional sobre las Mujeres (CEPAL, Colombia, 2028):** misma agenda de cuidados y apoyo.
 
 Nuestro papel: llevar el **carril de la asistencia personal / vida independiente** (donde la OIT y el ACNUDH ya nos acompañan) al **centro de la agenda de cuidados y género**, donde ONU Mujeres aún tiene la brecha — usando el webinar del 11 de septiembre como primer paso.
 
