@@ -29,6 +29,7 @@ Preparación:
 
 ## Análisis y marcos conceptuales
 
+- [**El Compromiso de Tlatelolco y la OC-31/25 — cómo leer el párrafo 30**](Compromiso-Tlatelolco-y-OC-31-25.md) — el §6 del Compromiso acoge la OC-31/25; tabla de coincidencias, y por qué las «otras formas de apoyo» del §30 deben leerse como en el párr. 198 de la OC: apoyos, incluida la asistencia personal, como contenido esencial del derecho al cuidado
 - [**Opinión Consultiva OC-31/25 (Corte IDH) — párrafos sobre discapacidad, autonomía y vida independiente**](OC-31-25-discapacidad-autonomia-vida-independiente.md) — el derecho al cuidado como derecho autónomo; selección de párrafos con su número: «apoyo» y no solo «atención» (párrs. 196, 202), independencia como control sobre la propia vida (197), los apoyos como contenido esencial del derecho (198), apoyo ≠ accesibilidad (199), educación inclusiva y seguridad social; con guía rápida de uso
 - [**Las 5R, la discapacidad y los sistemas de cuidado (OIT, ONU Mujeres, ACNUDH)**](5R-discapacidad-sistemas-de-cuidado-OIT-ONUMujeres-ACNUDH.md) — trayectoria de las 5R (de la economía feminista a la inclusión de la discapacidad), reinterpretación por cada agencia, y el lugar del movimiento de vida independiente. Incluye el caso de Colombia (Global Disability Fund)
 - [**Resumen: Herramienta de Evaluación a Nivel País — Sistemas de Cuidados y Apoyo a las Personas con Discapacidad (ACNUDH, 2026)**](Herramienta-OHCHR-Sistemas-Cuidados-Apoyo-resumen.md) — genealogía del marco, 5R+, distinción cuidado/apoyo, 13 indicadores nuevos de discapacidad
