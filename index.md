@@ -8,6 +8,13 @@ Repositorio de documentos de RELAVIN y del Comité de Seguimiento del Compromiso
 
 - [**Manifiesto 8M 2026 — Mujeres con Discapacidad en América Latina y el Caribe (PDF)**](Manifiesto_8M_2026.pdf)
 
+## Serie de webinars en México (diciembre de 2026) — borradores
+
+Materiales de trabajo para los webinars con gobiernos y congresos estatales (Guanajuato, Tlaxcala y otros): llevar la vida independiente y la asistencia personal a la agenda legislativa de cuidados.
+
+- [**Panorama — leyes y proyectos de cuidados en los estados de México**](webinar-2026-12-mexico/01%20Panorama%20%E2%80%94%20leyes%20de%20cuidados%20en%20los%20estados%20de%20M%C3%A9xico.md) — dónde está cada estado (octubre de 2026)
+- [**Guanajuato — análisis de la iniciativa ELD 576**](webinar-2026-12-mexico/02%20Guanajuato%20%E2%80%94%20an%C3%A1lisis%20de%20la%20iniciativa%20ELD%20576.md) — Ley del Sistema Estatal de Cuidados Integrales: lo bueno, lo que preocupa y propuestas por artículo
+
 ## Webinar de septiembre de 2026
 
 Primer webinar de la serie del Comité, en alianza con la OIT — *Las mujeres con discapacidad en el centro de la economía del cuidado* (11 de septiembre de 2026).
